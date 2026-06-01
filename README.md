@@ -37,3 +37,7 @@ Menyediakan tampilan modern dan responsif untuk platform belajar online. Proyek 
 2. Buka folder proyek, lalu klik dua kali file index.html atau buka dengan browser pilihan Anda.
 
 3. Pastikan semua aset (folder assets/ dan file output.css) berada di tempat yang benar.
+
+## 🖼 Tampilan (Screenshot)
+
+![Tampilan halaman utama DibiEdu LMS](./assets/images/screenshot.png)
