@@ -1,6 +1,6 @@
 # 📚 DibiEdu — Learning Management System (LMS)
 
-> Landing page statis untuk platform kursus online. Dibangun dengan **HTML5** dan **Tailwind CSS**.  
+> Landing page statis untuk platform belajar online. Dibangun dengan **HTML5** dan **Tailwind CSS**.  
 > Menampilkan daftar kursus unggulan, keunggulan platform, serta navigasi yang responsif.
 
 ## 📌 Tujuan Proyek
@@ -33,3 +33,7 @@ Menyediakan tampilan modern dan responsif untuk platform belajar online. Proyek 
 1. **Clone repositori** ini:
    ```bash
    git clone https://github.com/username/dibiedu-lms.git
+   
+2. Buka folder proyek, lalu klik dua kali file index.html atau buka dengan browser pilihan Anda.
+
+3. Pastikan semua aset (folder assets/ dan file output.css) berada di tempat yang benar.
